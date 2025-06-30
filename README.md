@@ -7,7 +7,7 @@
 #### 🌟 How did I get here?, funny story... 
 I started as an **opera singer** (yes, really! From music to Git Stages 😅), which brought me to Vienna, the capital of music. Then I discovered and spent over a **decade in international retail** (yup, that too) managing teams and operations across countries. But oh no, it hasn't stopped there - now I'm building web and software applications... so excited to continue this journey ahead in tech!
 
-> 🤩 turns out, whether hitting high notes on stage, coordinating shipments across borders, or debugging Python code, it's all about collaboration, problem-solving & making things flow smoothly.*
+> 🤩 *turns out, whether hitting high notes on stage, coordinating shipments across borders, or debugging Python code, it's all about collaboration, problem-solving & making things flow smoothly.*
 
 🛠️ **Currently** building tools that solve real problems for real users 
 
