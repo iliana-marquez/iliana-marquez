@@ -2,11 +2,12 @@
 
 ### I'm **Iliana**... Full Stack Developer by choice 🤓
 
-#### 🌟 How did I get here?, funny story... 
-I started as an **opera singer** (yes, really! From music to Git Stages 😅), which brought me to Vienna, the capital of music. Then I discovered and spent over a **decade in international retail** (yup, to that too) managing teams and operations across countries. But oh no, it hasn't stopped there - now I'm building web and software applications... so excited to continue this journey ahead in tech!
-
 🗺️ **My roadmap:** Singer → International Retail → Developer
-> turns out, whether hitting high notes on stage, coordinating shipments across borders, or debugging Python code, it's all about collaboration, problem-solving & making things flow smoothly.
+
+#### 🌟 How did I get here?, funny story... 
+I started as an **opera singer** (yes, really! From music to Git Stages 😅), which brought me to Vienna, the capital of music. Then I discovered and spent over a **decade in international retail** (yup, that too) managing teams and operations across countries. But oh no, it hasn't stopped there - now I'm building web and software applications... so excited to continue this journey ahead in tech!
+
+> 🤩 turns out, whether hitting high notes on stage, coordinating shipments across borders, or debugging Python code, it's all about collaboration, problem-solving & making things flow smoothly.*
 
 🛠️ **Currently** building tools that solve real problems for real users 
 
@@ -39,9 +40,11 @@ I started as an **opera singer** (yes, really! From music to Git Stages 😅), w
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 
 **Database:**  
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 **Tools:**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -50,6 +53,7 @@ I started as an **opera singer** (yes, really! From music to Git Stages 😅), w
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 **Currently Learning:**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-FF6F00?style=flat-square&logo=brain&logoColor=white)
