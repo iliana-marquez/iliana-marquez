@@ -47,7 +47,7 @@ Professional portfolio for a talented artist in Vienna showcasing her work in mu
 **Hackathon project** | *Django • Tailwind CSS • Cloudinary*  
 Won 1st place at Code Institute's hackathon for connecting women developers with opportunities and mentorship, and where I had the great opportunity to collaborate with the amazing **Connection Engineers**.
 
-#### 🐾 [Pet Match](https://github.com/iliana-marquez/pet-match](https://github.com/iliana-marquez/petmatch-webapp)
+#### 🐾 [Pet Match](https://github.com/iliana-marquez/petmatch-webapp)
 **Pet adoption platform** | *PHP • JavaScript • MySQL*  
 Full-stack application to help connect pets with families.
 
