@@ -5,7 +5,7 @@
 🗺️ **My Roadmap:** Singer → International Retail → Developer
 
 #### 🌟 How did I get here? Funny story...
-I started as an **opera singer** (yes, really! From music to Git Stages 😅), which brought me to Vienna, the capital of music. Then I discovered and spent over a **decade in international retail** (yup, that too) managing teams and operations across countries. And naturally, the journey evolved - now I'm building web and software applications... so excited to keep growing in tech!
+I started as an **opera singer** (yes, really! From Music to Git Stages 😅), which brought me to Vienna, the capital of music. Then I discovered and spent over a **decade in international retail** (yup, that too) managing teams and operations across countries. And naturally, the journey evolved - now I'm building web and software applications... so excited to keep growing in tech!
 
 > 🤩 *turns out, whether hitting high notes on stage, coordinating shipments across borders, or debugging Python code, it's all about collaboration, problem-solving & making things flow smoothly.*
 
