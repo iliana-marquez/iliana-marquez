@@ -53,14 +53,6 @@ Full-stack application to help connect pets with families.
 
 ---
 
-### 📊 GitHub Stats
-
-![Iliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliana-marquez&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliana-marquez&layout=compact&theme=radical)
-
----
-
 ### 🌍 Thanks for stopping by!
 
 Feel free to explore my repositories — there’s a mix of ideas, experiments, and passion projects 💻✨
