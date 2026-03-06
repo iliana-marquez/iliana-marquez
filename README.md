@@ -61,7 +61,7 @@ All open for snooping, forking & improving 👀🔧
 Got ideas? Want to use something? Or need a dev for a project? Hit me up! 💌😎
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliana-marquez-3b6795339/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://iliana.codefactory.live/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ilianamarquez.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iliana.marquez@hotmail.com)
 
 ---
