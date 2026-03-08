@@ -1,6 +1,4 @@
-## 👋 Hola!  
-
-### I'm **Iliana**... Full Stack Developer by choice 🤓
+## 👋 Hola! I'm **Iliana**...🤓
 
 🗺️ **My Roadmap:** Singer → International Retail → Developer
 
