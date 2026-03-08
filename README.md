@@ -11,11 +11,11 @@ I started as an **opera singer** (yes, really! From Music to Git Stages 😅), w
 
 🇦🇹 **Based in** Vienna, but work with teams internationally
 
-📝 **Learning in public, cause sharing is caring** - Recently published my 1st article on OOP on [Medium](https://medium.com/@iliana.marquez/think-like-a-builder-my-first-real-understanding-of-oop-362717479060); more content in progress... 
+📝 **Learning in public, cause sharing is caring**! Published my 1st article on OOP on [Medium](https://medium.com/@iliana.marquez/think-like-a-builder-my-first-real-understanding-of-oop-362717479060); more content in progress... 
 
-🏔️ **Enjoy the outdoors** - hiking, skiing, and surfing when I am not coding  
+🏔️ **Enjoy the outdoors**: hiking, skiing, and surfing when I am not coding 
 
-🗣️ **Spoken languages** - Spanish, German, English, French & a bit of Italian
+🗣️ **Love languages,speak** Spanish, German, English, French & a bit of Italian
 
 ---
 
