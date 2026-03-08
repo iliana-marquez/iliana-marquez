@@ -53,10 +53,10 @@ Full-stack application to help connect pets with families.
 
 ### 🌍 Thanks for stopping by!
 
-Feel free to explore my repositories — there’s a mix of ideas, experiments, and passion projects 💻✨
-All open for snooping, forking & improving 👀🔧
-
+Explore my repos: a mix of freelance work, experiments & passion projects. 💻✨
 Got ideas? Want to use something? Or need a dev for a project? Hit me up! 💌😎
+
+Always open to collaboration and new opportunities 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliana-marquez-3b6795339/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ilianamarquez.com/)
