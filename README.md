@@ -55,7 +55,7 @@ Full-stack application to help connect pets with families.
 
 Explore my repos: a mix of freelance work, experiments & passion projects. 💻✨
 
-Got ideas? Want to use something? Or need a dev for a project? Hit me up! 💌😎
+💡 Got ideas? 📤 Wanna use something? 🙋🏻‍♀️ Need a dev? Hit me up! 💌😎
 
 Always open to collaboration and new opportunities 🚀
 
