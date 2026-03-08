@@ -15,7 +15,7 @@ I started as an **opera singer** (yes, really! From Music to Git Stages 😅), w
 
 🏔️ **Enjoy the outdoors**: hiking, skiing, and surfing when I am not coding 
 
-🗣️ **Love languages,speak**  Spanish, German, English, French & a bit of Italian
+🗣️ **Love languages, speak**  Spanish, German, English, French & a bit of Italian
 
 ---
 
